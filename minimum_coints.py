@@ -13,7 +13,7 @@ for test in test_lines:
 		if new_total >= c3:
 			c_current = new_total / c3
 			coin_total += c_current
-			new_total = new_total - (c_current * c3`)
+			new_total = new_total - (c_current * c3)
 
 		if new_total >= c2:
 			c_current = new_total / c2
@@ -24,7 +24,7 @@ for test in test_lines:
 			c_current = new_total / c1
 			coin_total += c_current
 			new_total = new_total - (c_current * c1)
-	print coin_total
+	print(coin_total)
 test_cases.close()
 #OR use this one liner
 	#coin_total = (total / 5) + ((total % 5) / 3) + ((total % 5) % 3)

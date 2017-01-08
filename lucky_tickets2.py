@@ -25,7 +25,7 @@ for test in test_lines:
 
 			if z == t:
 				luck += 1
-	print luck
+	print(luck)
 # test_cases.close()
 
 

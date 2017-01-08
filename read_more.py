@@ -11,5 +11,5 @@ for test in test_lines:
 		trimmed = test[:trimLine].rstrip()
 		trimmed += readMore
 		test = trimmed
-	print test
+	print(test)
 test_cases.close()

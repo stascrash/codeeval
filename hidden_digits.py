@@ -19,7 +19,7 @@ for test in test_lines:
 			out_text += str(symbol)
 	if out_text == "":
 		out_text = "NONE"
-	print out_text
+	print(out_text)
 
 
 

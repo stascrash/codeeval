@@ -12,6 +12,6 @@ for test in test_lines:
 	for i in range(a.bit_length()):
 		if get_bit(a, i):
 			numOnes += 1
-	print numOnes
+	print(numOnes)
 
 test_cases.close()

@@ -28,7 +28,7 @@ for test in test_lines:
 		if isLucky(generateSTRnum(startNum, numlen)):
 			lucky += 1
 		startNum += 1
-	print lucky
+	print(lucky)
 	#print "time to get %s: %0.2f \n" % (test, (end-start))
 		
 

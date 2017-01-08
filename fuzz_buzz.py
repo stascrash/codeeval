@@ -9,16 +9,16 @@ for test in test_cases:
 
 	for i in range(1, n + 1):
 		if i % x == 0 and i % y == 0:
-			print "FB",
+			print("FB",)
 		else:
 			if i % x == 0:
-				print "F",
+				print("F",)
 			else:
 				if i % y == 0:
-					print "B",
+					print("B",)
 				else:
-					print i,
-	print "\n"
+					print(i,)
+	print("\n")
 test_cases.close()
 
 

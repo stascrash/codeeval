@@ -24,7 +24,7 @@ visited_map[0][0] = True
 
 while True:
 	direction = directions[cur_direction % 4]
-	pending_coords = (cur_coords[0] +direction[0], cur_coords[1] + direction[1])
+	pending_coords = (cur_coords[0] + direction[0], cur_coords[1] + direction[1])
 	print(pending_coords)
 
 	if not checkCoords(pending_coords):
@@ -43,8 +43,8 @@ while True:
 	nuts += 1
 
 
-print nuts
-print visited_map
+print(nuts)
+print(visited_map)
 
 
 

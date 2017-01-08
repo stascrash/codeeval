@@ -8,5 +8,5 @@ for test in test_lines:
 	while (a != 0):
 		z += a % 10
 		a /= 10
-	print z
+	print(z)
 test_cases.close()

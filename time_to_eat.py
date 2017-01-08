@@ -13,5 +13,5 @@ for test in test_lines:
 		formatedTime = timeEntry.strftime("%H:%M:%S")
 		sortedSchedule.append(formatedTime)
 	finalSchedule = " ".join(sortedSchedule)
-	print finalSchedule
+	print(finalSchedule)
 test_cases.close()

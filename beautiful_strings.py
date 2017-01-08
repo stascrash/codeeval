@@ -1,3 +1,4 @@
+# https://www.codeeval.com/open_challenges/83/
 import sys
 def getLetterRepetitionCount(testPhrase):
 	letterFrequency = {}
@@ -46,7 +47,7 @@ def main():
 		repetitionCount = getLetterRepetitionCount(test)
 		letterPoints = assignLetterPoints(repetitionCount)
 		maxBeauty = getMaxBeauty(letterPoints, test)
-		print maxBeauty
+		print(maxBeauty)
 	test_cases.close()
 
 if __name__ == "__main__":

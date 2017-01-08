@@ -8,5 +8,5 @@ for test in test_lines:
 		val_str = "%.3f" % val
 		outPut.append(val_str)
 	out = " ".join(outPut)
-	print out
+	print(out)
 test_cases.close()

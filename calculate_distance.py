@@ -12,7 +12,7 @@ for test in test_lines:
 	horizontal_side =ptA[0] - ptB[0]
 	vertical_side = ptA[1] - ptB[1]
 	hypotenuse = int(math.sqrt((horizontal_side*horizontal_side + vertical_side*vertical_side)))
-	print hypotenuse
+	print(hypotenuse)
 test_cases.close()
 
 

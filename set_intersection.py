@@ -8,9 +8,9 @@ for test in test_lines:
 	num_set_c = sorted(list(num_set_a & num_set_b))
 
 	if len(num_set_c) == 0:
-		print "\n"
+		print("\n")
 	if len(num_set_c) == 1:
-		print num_set_c[0]
+		print(num_set_c[0])
 	else:
-		print (",".join([str(x) for x in num_set_c]))
+		print(",".join([str(x) for x in num_set_c]))
 test_cases.close()

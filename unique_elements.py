@@ -5,7 +5,7 @@ for test in test_lines:
 	nums = test.split(",")
 	num_set = (sorted(list(set([int(x) for x in nums]))))
 	if len(num_set) == 1:
-		print num_set[0]
+		print(num_set[0])
 	else:
-		print (",".join([str(x) for x in num_set]))
+		print(",".join([str(x) for x in num_set]))
 test_cases.close()

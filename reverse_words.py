@@ -7,5 +7,5 @@ for test in test_lines:
 	if len(test) != 0:
 		text_line = test.split(" ")
 		out_text = " ".join(reversed(text_line))
-		print out_text
+		print(out_text)
 test_cases.close()

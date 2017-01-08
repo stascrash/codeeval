@@ -13,5 +13,5 @@ for test in test_lines:
 		if word != "":
 			cleanWords.append(word)
 	result = " ".join(cleanWords)
-	print result.lower()
+	print(result.lower())
 test_cases.close()

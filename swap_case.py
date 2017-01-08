@@ -12,5 +12,5 @@ for sentence in test_cases:
 				new_sentence += letter
 		else:
 			new_sentence += letter
-	print new_sentence
+	print(new_sentence)
 test_cases.close()

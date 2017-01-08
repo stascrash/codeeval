@@ -12,7 +12,6 @@ for line in test_lines:
 	usedWordsIndex = []
 	sorted_words = ["x"]*len(words)
 	used_words = []
-	last_word = ""
 
 	for hint in hints:
 		sorted_words[hint-1] = words[hints.index(hint)]
@@ -24,5 +23,5 @@ for line in test_lines:
 	last_word = words[len(used_words):][0]
 	sorted_words[missing_hint-1] = last_word
 	deciphered_string = " ".join(sorted_words)
-	print deciphered_string
+	print(deciphered_string)
 test_cases.close()

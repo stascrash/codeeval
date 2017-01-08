@@ -7,5 +7,5 @@ for test in test_lines:
     m = int(test.split(",")[1])
     mod = n - (m * (n / m))
 
-    print mod
+    print(mod)
 test_cases.close()

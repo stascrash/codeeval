@@ -4,5 +4,5 @@ test_lines = (line.rstrip() for line in test_cases)
 total = 0
 for test in test_lines:
 	total += int(test)
-print total
+print(total)
 test_cases.close()
