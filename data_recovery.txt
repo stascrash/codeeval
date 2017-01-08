@@ -1,0 +1,20 @@
+Alick developed the Autocode University Manchester, of Glennie At in early the 1950s;6 8 11 9 3 5 4 7 1 10 12 2
+was for time code which Known were EDSAC from source-language advanced Mercury for the it object adapted its Autocode, and was and circumstances, diagnostics Autocode for a straight as optimisation local development 2 noted;19 32 34 24 29 1 30 3 11 27 31 12 21 33 6 23 14 22 5 26 7 18 17 28 13 15 8 9 2 25 16 10 4
+for found and implemented a uncomfortable business data and early prototype she her and 1955, notation, Hopper English with language wrote in programming processing customers that mathematical an were specification team a;24 2 29 30 31 9 4 5 13 15 32 17 19 18 16 12 1 26 10 28 21 14 27 6 7 3 11 25 8 23 20
+Another the called FLOW-MATIC early devised Grace was by language Hopper programming US, in;1 11 13 14 2 6 8 5 7 4 9 3 12
+convert a to compiler machine into language it used language, code the A programming automatically;10 6 8 7 14 13 12 4 5 3 15 11 1 2
+than time translated every machine the process equivalent code it machine making program much However, slower the running be code ran, into the had to;20 12 7 11 9 2 17 23 10 13 24 15 3 18 1 19 16 21 6 25 14 8 22 4
+Ferranti 1950s for an autocode Manchester University Brooker in the also conjunction developed Mercury in the with the of;8 12 6 4 5 19 17 1 13 16 2 14 3 9 10 11 15 7
+Ferranti in University developed also autocode with an Brooker 1950s Manchester the conjunction in of the the for Mercury;8 10 17 3 2 5 15 4 1 12 19 11 14 13 18 7 16 6
+in were her she business a and English found that team mathematical customers with uncomfortable an wrote Hopper language early a and for prototype implemented 1955, data programming specification processing notation, and;14 8 19 17 4 22 18 26 2 3 20 11 7 10 9 25 21 1 28 15 31 13 24 32 30 16 5 27 23 6 12
+slower the every to had running much code ran, time making process than equivalent machine program the it the into be machine translated However, code;19 16 11 5 4 21 18 25 14 12 15 17 20 23 24 3 22 13 2 8 6 9 7 1
+written Manchester ran Autocode from The in 1 programs 1952 Mark;7 2 5 9 10 1 8 4 6 11
+Manchester in in 1950s also for the autocode of conjunction the developed Ferranti Brooker with University an the Mercury;19 13 10 12 2 6 7 5 18 14 11 3 8 1 15 17 4 16
+Manchester was computer to the developed the for in considered be and at language code 1 The compiled Mark 1952 first the University is high-level first and programming of compiler;19 6 14 23 11 7 16 10 8 22 24 20 15 30 3 13 1 27 12 9 2 25 17 21 28 26 4 29 18
+separate A of thread but Atlas machine development, Manchester the contemporary developed University for was Autocode of 1 Atlas;4 1 15 5 3 8 19 7 16 13 2 11 14 12 10 9 6 18
+thread of 1 Atlas but contemporary development, developed the for Atlas of separate Autocode Manchester A was University machine;5 15 18 8 3 2 7 11 13 12 17 6 4 9 16 1 10 14
+at from period Remington until I for 1959 Rand UNIVAC during was It the the 1955 developed;8 14 13 9 16 7 4 17 10 6 11 2 1 5 12 15
+1 Mark The Manchester programs in Autocode ran 1952 written from;4 3 1 2 6 8 9 5 11 7
+FLOW-MATIC was in 1959 publicly became complete 1958 substantially available and early compiler in The;2 11 14 15 5 4 13 9 12 6 10 8 3 7
+machine Unlike expressions Short represented statements code, Code form understandable mathematical in;2 1 9 4 7 6 3 5 12 11 8
+FLOW-MATIC available 1958 was The in substantially early compiler 1959 became complete publicly and in;2 6 9 11 1 14 12 8 3 15 4 13 5 10
